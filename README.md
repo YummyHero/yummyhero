@@ -3,9 +3,14 @@
 <h2>👨‍💻 Frontend Projects:</h2>
 
 - <b>CSS & HTML Practice</b>
-  - [Youtube Web Page](https://github.com/YummyHero/YouTubeLandingPageLab)
+  - [Youtube Landing Page](https://github.com/YummyHero/YouTubeLandingPageLab)
   - [Online Survey Form](https://github.com/YummyHero/SurveyFormPractice/tree/main)
 
+<h2>👨‍💻 School Projects:</h2>
+
+- <b>Python Lab Projects</b>
+  - [Bank Account Menu](https://github.com/YummyHero/YouTubeLandingPageLab)
+  - [Decoding Lab Using Permutaion](https://github.com/YummyHero/SurveyFormPractice/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
