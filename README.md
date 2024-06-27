@@ -3,7 +3,7 @@
 <h2>👨‍💻 Frontend Projects:</h2>
 
 - <b>CSS & HTML Practice</b>
-  - [Youtube Web Page](https://github.com/yummyhero/123)
+  - [Youtube Web Page](https://github.com/YummyHero/YouTubeLandingPageLab)
   - [Online Survey Form](https://github.com/yummyhero/123)
 
 
