@@ -10,7 +10,7 @@
 
 - <b>Python Lab Projects</b>
   - [Bank Account Menu](https://github.com/YummyHero/YouTubeLandingPageLab)
-  - [Decoding Using Permutaion](https://github.com/YummyHero/SurveyFormPractice/tree/main)
+  - [Decoding Using Permutaion](https://github.com/YummyHero/CryptographyLab)
 
 <h2> 🤳 Connect with me:</h2>
 
