@@ -4,7 +4,7 @@
 
 - <b>CSS & HTML Practice</b>
   - [Youtube Web Page](https://github.com/YummyHero/YouTubeLandingPageLab)
-  - [Online Survey Form](https://github.com/yummyhero/123)
+  - [Online Survey Form](https://github.com/YummyHero/SurveyFormPractice/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
