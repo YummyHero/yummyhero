@@ -9,7 +9,7 @@
 <h2>👨‍💻 School Projects:</h2>
 
 - <b>Python Lab Projects</b>
-  - [Bank Account Menu](https://github.com/YummyHero/YouTubeLandingPageLab)
+  - [Bank Account Menu](https://github.com/YummyHero/BankAccountMenu)
   - [Decoding Using Permutaion](https://github.com/YummyHero/CryptographyLab)
 
 <h2> 🤳 Connect with me:</h2>
